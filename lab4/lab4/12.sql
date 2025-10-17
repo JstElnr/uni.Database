@@ -1,0 +1,3 @@
+DELETE FROM Boxes
+WHERE value<150
+RETURNING*;
