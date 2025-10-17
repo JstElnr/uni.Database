@@ -1,0 +1,2 @@
+DROP TABLE orders;
+DROP DATABASE lab1;

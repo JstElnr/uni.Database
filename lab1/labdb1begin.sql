@@ -1,0 +1,1 @@
+CREATE DATABASE lab1 TEMPLATE template0;
